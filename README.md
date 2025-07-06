@@ -1,4 +1,4 @@
-#In Python, almost everything is treated as an object: numbers, strings, functions, classes, and modules are all objects. However, there are some elements that are not objects:
+# In Python, almost everything is treated as an object: numbers, strings, functions, classes, and modules are all objects. However, there are some elements that are not objects:
 
 ## Operators and syntax:
 Operators (such as +, -, *, and, or, not, and others) are parts of the language that are not represented as objects in memory.
